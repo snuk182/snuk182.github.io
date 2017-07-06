@@ -1,8 +1,7 @@
 @import "rouge-base16-dark";
 
 html {
-  background:#6C7989;
-  background: #6C7989 linear_gradient(#6C7989, #434B55) fixed;
+  background: #770000;
 }
 
 body {
@@ -15,9 +14,9 @@ body {
 }
 
 .wrapper {
-  width:640px;
+  width:1280px;
   margin:0 auto;
-  background:#DEDEDE;
+  background:#FEFEFEEE;
   border-radius: 8px;
   box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
 }
@@ -43,7 +42,7 @@ strong {
 
 header {
   border-radius: 8px 8px 0 0;
-  background:#C6EAFA;
+  background:#FAFAAFA;
   background: linear_gradient(#DDFBFC, #C6EAFA);
   position:relative;
   padding:15px 20px;
