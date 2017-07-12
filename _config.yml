@@ -3,5 +3,4 @@ description: That no one gonna read anyway.
 show_downloads: false
 google_analytics:
 theme: 
-
-# github_comments_repository:  snuk182/snuk182.github.io
+github_comments_repository:  snuk182/snuk182.github.io
