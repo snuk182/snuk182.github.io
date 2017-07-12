@@ -325,3 +325,9 @@ footer {
     content:'at https://github.com/';
   }
 }
+
+// Import partials.
+@import
+  "gh-comments",
+  "gh-code"
+;
