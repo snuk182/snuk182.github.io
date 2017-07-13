@@ -35,11 +35,12 @@
       {{ content }}
 
       </section>
-	  <section>
+      <a href="/index.html"><h1 id="project_title">Back to {{ site.title | default: site.github.repository_name }}</h1></a>    
+      <section>
 	  
-	  {% include github-comments.html %}
+      {% include github-comments.html %}
 	  
-	  </section>	  
+      </section>	  
     </div>
 
     <footer>
